@@ -1,5 +1,3 @@
-# Playwright-SauceLabsAutomation
-
 # Sauce Labs Demo Automation
 
 # Setup Instructions
